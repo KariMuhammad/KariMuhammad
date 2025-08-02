@@ -24,7 +24,7 @@
 - 🚀 I enjoy working on eCommerce, APIs, dashboards, and real-time applications.
 - 🌱 I'm always improving my skills in backend performance, clean architecture, and frontend design systems.
 - 📫 Reach me at [karimuhammad4455@gmail.com](mailto:karimuhammad4455@gmail.com)
-- 
+- 📃 CV [document](https://drive.google.com/file/d/1KckSBywLPXcJN9rj70cCtdPap7ieFZ_l/view?usp=sharing)
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
